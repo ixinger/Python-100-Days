@@ -2,7 +2,7 @@
 
 > **作者**：骆昊
 >
-> **说明**：如果访问 GitHub 比较慢的话，可以关注我的知乎账号（[**Python-Jack**](https://www.zhihu.com/people/jackfrued)），上面的[“**从零开始学Python**”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏（对应本项目前 20 天的内容）比较适合初学者，其他的专栏如“[**数据思维和统计思维**](https://www.zhihu.com/column/c_1620074540456964096)”、“[**基于Python的数据分析**](https://www.zhihu.com/column/c_1217746527315496960)”、“[**说走就走的AI之旅**](https://www.zhihu.com/column/c_1628900668109946880)”等也在持续更新中，欢迎大家关注、点赞和评论。
+> **说明**：如果访问 GitHub 比较慢的话，可以关注作者的知乎账号（[**Python-Jack**](https://www.zhihu.com/people/jackfrued)），上面的[“**从零开始学Python**”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏（对应本项目前 20 天的内容）比较适合初学者，其他的专栏如“[**数据思维和统计思维**](https://www.zhihu.com/column/c_1620074540456964096)”、“[**基于Python的数据分析**](https://www.zhihu.com/column/c_1217746527315496960)”、“[**说走就走的AI之旅**](https://www.zhihu.com/column/c_1628900668109946880)”等也在持续更新中，欢迎大家关注、点赞和评论。
 
 ### Python应用领域和职业发展分析
 
